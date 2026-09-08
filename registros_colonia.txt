@@ -1,0 +1,14 @@
+=== HISTORICO DE RESPOSTAS DO NUCLEO COGNITIVO (NCAS) ===
+
+[2026-08-20 09:15] PERGUNTA: Qual o status do modulo de geracao de energia?
+RESPOSTA: O modulo de Geracao de Energia esta ativo, com 88% de energia disponivel. Nenhuma anomalia registrada.
+
+[2026-08-20 10:02] PERGUNTA: Existe algum alerta critico ativo no momento?
+RESPOSTA: Sim. O modulo de Comunicacao Externa apresenta uma falha critica: perda total de sinal com a base terrestre.
+
+[2026-08-21 14:40] PERGUNTA: Resuma a solicitacao SOL-103 da tripulante Helena Costa.
+RESPOSTA: A tripulante Helena Costa reportou ruido anormal no modulo de comunicacao externa, classificado como urgencia alta e atualmente em andamento.
+
+[2026-08-22 08:05] PERGUNTA: O modulo de purificacao de agua precisa de manutencao?
+RESPOSTA: O modulo esta em estado de alerta, com 61% de energia e uma ocorrencia de falha no filtro secundario registrada em 30/07/2026. Recomenda-se manutencao preventiva.
+

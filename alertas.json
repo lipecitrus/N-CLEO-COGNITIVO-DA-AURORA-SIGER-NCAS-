@@ -1,0 +1,28 @@
+{
+  "alertas": [
+    {
+      "id": "ALT-001",
+      "modulo": "Purificacao de Agua",
+      "tipo_ocorrencia": "consumo_elevado",
+      "prioridade": "media",
+      "data": "2026-07-30",
+      "mensagem": "Consumo de energia acima do esperado no filtro secundario."
+    },
+    {
+      "id": "ALT-002",
+      "modulo": "Comunicacao Externa",
+      "tipo_ocorrencia": "falha_critica",
+      "prioridade": "critica",
+      "data": "2026-06-10",
+      "mensagem": "Perda total do sinal com a base terrestre."
+    },
+    {
+      "id": "ALT-003",
+      "modulo": "Geracao de Energia",
+      "tipo_ocorrencia": "manutencao_preventiva",
+      "prioridade": "baixa",
+      "data": "2026-08-20",
+      "mensagem": "Verificacao de rotina concluida sem anomalias."
+    }
+  ]
+}

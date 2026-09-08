@@ -1,0 +1,25 @@
+{
+    "modulos": [
+        {
+            "id": "MOD-01",
+            "nome": "Energia",
+            "status": "Inativo",
+            "responsavel": "Centro de Controle"
+        },
+        {
+            "id": "MOD-02",
+            "nome": "Hidroponia",
+            "status": "Ativo",
+            "responsavel": "Setor de Agricultura"
+        },
+        {
+            "id": "MOD-03",
+            "nome": "Comunicacao",
+            "status": "Ativo",
+            "responsavel": "Centro de Controle"
+        }
+    ],
+    "alertas": [],
+    "solicitacoes": [],
+    "interacoes": []
+}

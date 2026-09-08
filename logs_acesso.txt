@@ -1,0 +1,10 @@
+=== LOGS DE ACESSO AO SISTEMA NCAS ===
+
+2026-08-20 09:14:52 | USUARIO: operador01 | ACAO: login | STATUS: sucesso
+2026-08-20 09:15:10 | USUARIO: operador01 | ACAO: consulta_status_modulo | MODULO: Geracao de Energia | STATUS: sucesso
+2026-08-20 10:01:33 | USUARIO: operador02 | ACAO: consulta_alertas | STATUS: sucesso
+2026-08-20 10:05:47 | USUARIO: operador02 | ACAO: logout | STATUS: sucesso
+2026-08-21 14:39:20 | USUARIO: operador01 | ACAO: consulta_solicitacao | ID: SOL-103 | STATUS: sucesso
+2026-08-22 08:04:11 | USUARIO: operador03 | ACAO: login | STATUS: sucesso
+2026-08-22 08:05:02 | USUARIO: operador03 | ACAO: analise_regra_logica | MODULO: Purificacao de Agua | STATUS: sucesso
+2026-08-22 08:06:40 | USUARIO: operador03 | ACAO: logout | STATUS: sucesso

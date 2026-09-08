@@ -1,0 +1,28 @@
+{
+  "solicitacoes": [
+    {
+      "id": "SOL-101",
+      "tripulante": "Bianca Souza",
+      "tipo_pedido": "manutencao",
+      "descricao": "Solicita verificacao do modulo de purificacao de agua.",
+      "urgencia": "media",
+      "status": "pendente"
+    },
+    {
+      "id": "SOL-102",
+      "tripulante": "Diego Martins",
+      "tipo_pedido": "suprimentos",
+      "descricao": "Solicita reposicao de racoes no setor de alojamento.",
+      "urgencia": "baixa",
+      "status": "concluido"
+    },
+    {
+      "id": "SOL-103",
+      "tripulante": "Helena Costa",
+      "tipo_pedido": "seguranca",
+      "descricao": "Reporta ruido anormal no modulo de comunicacao externa.",
+      "urgencia": "alta",
+      "status": "em_andamento"
+    }
+  ]
+}
